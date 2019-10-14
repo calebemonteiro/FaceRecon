@@ -12,4 +12,4 @@ TODO:
 
 This implementation is educational only and is free to use.
 
-Reference: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
+Kaggle Challenge: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
