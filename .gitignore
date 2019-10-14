@@ -1,0 +1,7 @@
+env
+Training
+Validation
+*.pyc
+*.csv
+*.DS_Store
+__pycache__
