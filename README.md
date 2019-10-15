@@ -1,6 +1,6 @@
 # Face Expression Recognition (WIP)
 
-Convulational Neural network using Keras and tensorflow-gpu. Network was trained from scratch using Nvidia's Gforce 2080 GTX.
+Convolutional Neural network using Keras and tensorflow-gpu. Network was trained from scratch using Nvidia's Gforce 1070 GTX.
 this was based in challenge closed long ago in kaggle.
 
 Done:
